@@ -1,0 +1,7 @@
+pyqt5
+pandas
+sqlalchemy
+nltk
+numpy
+jupyter
+tweepy
